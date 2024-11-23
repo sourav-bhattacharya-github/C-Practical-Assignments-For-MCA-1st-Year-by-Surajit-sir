@@ -1,7 +1,8 @@
 # C Practical Assignments for MCA 1st Year
+[google drive link](https://drive.google.com/drive/u/2/folders/1njUWXO395kIGcORQG-JLHGfjDZGzmgtd)
 
 ## Instructor
-Surajit Sir, MAKAUT
+Surajit Dan Sir, MAKAUT
 
 ## Created by
 Sourav Bhattacharya
@@ -53,11 +54,12 @@ This repository contains the practical assignments for the C programming course 
 16. **Program to find GCD and LCM of two numbers**
 
 17. **Program to display a specific pattern**  
+```
 * 
 * * 
 * * * 
 * * * *
-
+```
 
 18. **Program to find the largest and smallest element in an array**
 
