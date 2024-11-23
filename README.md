@@ -3,6 +3,9 @@
 ## Instructor
 Surajit Sir, MAKAUT
 
+## Created by
+Sourav Bhattacharya
+
 ## Overview
 This repository contains the practical assignments for the C programming course in the MCA 1st Year curriculum at MAKAUT. The assignments are designed to help students understand the fundamentals of C programming and enhance their problem-solving skills.
 
@@ -11,20 +14,20 @@ This repository contains the practical assignments for the C programming course 
 
 ## Assignments List
 
-1. **Program to calculate simple and compound interest**  
+1. [**Program to calculate simple and compound interest**](https://github.com/sourav-bhattacharya-github/C-Practical-Assignments-For-MCA-1st-Year-by-Surajit-sir/blob/main/1_simpleAndCompound.c)
    - Implement formulas for simple and compound interest.
 
-2. **Program to swap values of two variables**
+2. [**Program to swap values of two variables**](https://github.com/sourav-bhattacharya-github/C-Practical-Assignments-For-MCA-1st-Year-by-Surajit-sir/blob/main/2_swapTwo.c)
    - Swap using a third variable.
    - Swap without using a third variable.
 
-3. **Program to display the size of every data type using “sizeof” operator**
+3. [**Program to display the size of every data type using “sizeof” operator**](https://github.com/sourav-bhattacharya-github/C-Practical-Assignments-For-MCA-1st-Year-by-Surajit-sir/blob/main/3_sizeOfAllVar.c)
 
-4. **Program to illustrate the use of unary prefix and postfix increment and decrement operators**
+4. [**Program to illustrate the use of unary prefix and postfix increment and decrement operators**](https://github.com/sourav-bhattacharya-github/C-Practical-Assignments-For-MCA-1st-Year-by-Surajit-sir/blob/main/4_preAndpost.c)
 
-5. **Program to input two numbers and display the maximum number**
+5. [**Program to input two numbers and display the maximum number**](https://github.com/sourav-bhattacharya-github/C-Practical-Assignments-For-MCA-1st-Year-by-Surajit-sir/blob/main/5_max.cpp)
 
-6. **Program to find the largest of three numbers using ternary operators**
+6. [**Program to find the largest of three numbers using ternary operators**](https://github.com/sourav-bhattacharya-github/C-Practical-Assignments-For-MCA-1st-Year-by-Surajit-sir/blob/main/6_maxOfThreeNum.c)
 
 7. **Program to find the roots of quadratic equation**
 
@@ -54,6 +57,7 @@ This repository contains the practical assignments for the C programming course 
 * * 
 * * * 
 * * * *
+
 
 18. **Program to find the largest and smallest element in an array**
 
@@ -136,9 +140,39 @@ This repository contains the practical assignments for the C programming course 
 2. Navigate to the directory of the specific assignment.
 3. Compile and run the C programs using a C compiler like GCC.
 
+
+## Clone this Repository
+
+To clone this repository to your local machine, follow these steps:
+
+1. Copy the repository URL by clicking on the "Code" button and selecting either HTTPS or SSH.
+
+2. Open your terminal or command prompt.
+
+3. Use the `git clone` command followed by the copied repository URL.
+
+For HTTPS:
+
+```bash
+git clone https://github.com/sourav-bhattacharya-github/C-Practical-Assignments-For-MCA-1st-Year-by-Surajit-sir
+```
+
+## Usage
+
+1. Navigate to the root directory of the project.
+2. Run the command `make run` to start the program.
+3. Follow the on-screen instructions to answer the questions.
+
+## Contributing
+
+If you find a bug or have a feature request, please open an issue on GitHub. If you'd like to contribute code, please fork the repository and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 ```sh
 gcc <filename>.c -o <outputfile>
 ./<outputfile>
-
-
-This `README.md` file provides a comprehensive overview of all the assignments and instructions for using the repository. Let me know if there are any other adjustments you'd like!
+Contributing
+Feel free to fork this repository and submit pull requests for improvements or additional assignments. Contributions are always welcome!
+```
