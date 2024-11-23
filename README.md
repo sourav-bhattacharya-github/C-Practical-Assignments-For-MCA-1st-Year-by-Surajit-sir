@@ -14,14 +14,14 @@ This repository contains the practical assignments for the C programming course 
 
 ## Assignments List
 
-1. **Program to calculate simple and compound interest**[](https://github.com/sourav-bhattacharya-github/C-Practical-Assignments-For-MCA-1st-Year-by-Surajit-sir/blob/main/1_simpleAndCompound.c)
+1. **Program to calculate simple and compound interest**[link](https://github.com/sourav-bhattacharya-github/C-Practical-Assignments-For-MCA-1st-Year-by-Surajit-sir/blob/main/1_simpleAndCompound.c)
    - Implement formulas for simple and compound interest.
 
-2. [**Program to swap values of two variables**](https://github.com/sourav-bhattacharya-github/C-Practical-Assignments-For-MCA-1st-Year-by-Surajit-sir/blob/main/2_swapTwo.c)
+2. **Program to swap values of two variables**[link](https://github.com/sourav-bhattacharya-github/C-Practical-Assignments-For-MCA-1st-Year-by-Surajit-sir/blob/main/2_swapTwo.c)
    - Swap using a third variable.
    - Swap without using a third variable.
 
-3. [**Program to display the size of every data type using “sizeof” operator**](https://github.com/sourav-bhattacharya-github/C-Practical-Assignments-For-MCA-1st-Year-by-Surajit-sir/blob/main/3_sizeOfAllVar.c)
+3. **Program to display the size of every data type using “sizeof” operator**[link](https://github.com/sourav-bhattacharya-github/C-Practical-Assignments-For-MCA-1st-Year-by-Surajit-sir/blob/main/3_sizeOfAllVar.c)
 
 4. [**Program to illustrate the use of unary prefix and postfix increment and decrement operators**](https://github.com/sourav-bhattacharya-github/C-Practical-Assignments-For-MCA-1st-Year-by-Surajit-sir/blob/main/4_preAndpost.c)
 
